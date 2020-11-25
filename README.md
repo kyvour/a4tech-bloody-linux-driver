@@ -1,3 +1,6 @@
+# this repository was moved to [https://github.com/andrew-yustyk/a4tech-bloody-linux-driver](https://github.com/andrew-yustyk/a4tech-bloody-linux-driver)
+
+
 a4tech-bloody-linux-driver
 ====================
 
